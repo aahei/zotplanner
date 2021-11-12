@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "react": ".\\utils\\react-dom.development.js",
+    "react-dom": ".\\utils\\react.development.js"
+  }
+}
