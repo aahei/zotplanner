@@ -1,4 +1,4 @@
 ZotPlanner development  
-Frontend: React
+Frontend: React  
 by Zavins & Ahei  
 In progress...
