@@ -1,1 +1,3 @@
+ZotPlanner development
+by Zavins & Ahei
 In progress...
